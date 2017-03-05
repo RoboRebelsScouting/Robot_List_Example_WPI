@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">RobotListExample</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="RobotList_array">
+        <item>69</item>
+        <item>126</item>
+        <item>166</item>
+        <item>190</item>
+        <item>246</item>
+        <item>501</item>
+        <item>663</item>
+        <item>839</item>
+        <item>1027</item>
+        <item>1153</item>
+        <item>1277</item>
+        <item>1350</item>
+        <item>1519</item>
+        <item>1735</item>
+        <item>1740</item>
+        <item>1768</item>
+        <item>1786</item>
+        <item>1965</item>
+        <item>1991</item>
+        <item>2262</item>
+        <item>2342</item>
+        <item>2370</item>
+        <item>2423</item>
+        <item>2523</item>
+        <item>2877</item>
+        <item>3236</item>
+        <item>3466</item>
+        <item>3623</item>
+        <item>3719</item>
+        <item>3780</item>
+        <item>4041</item>
+        <item>4048</item>
+        <item>4905</item>
+        <item>4987</item>
+        <item>5813</item>
+        <item>5969</item>
+        <item>6329</item>
+        <item>6337</item>
+        <item>6367</item>
+        <item>6723</item>
+    </string-array>
+</resources>
